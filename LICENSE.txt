@@ -1,0 +1,12 @@
+Copyright (c) 2023 MORAR ADELA
+
+Toate drepturile rezervate / All rights reserved.
+
+Acest proiect este unul personal și este protejat de drepturi de autor. 
+Utilizarea, copierea, modificarea sau distribuirea acestui software și a 
+fișierelor asociate, în orice scop (comercial sau necomercial), este 
+strict interzisă fără acordul prealabil scris al autorului.
+
+This is a personal project. No part of this repository may be used, 
+reproduced, modified, or distributed in any form or by any means 
+without the explicit written permission of the author.
